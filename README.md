@@ -1,6 +1,6 @@
 # My first smart contract using Solidity
 
-I deploy my first smart contract with a simple logic just for Training on Rinkeby Testnet
+I deploy my first smart contract with a simple logic on Rinkeby Test network
 
 ## 23/08/2022 we learn
 - [x] Use Factory Pattern
